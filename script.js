@@ -42,5 +42,5 @@ else {
 }
 //this for loop is for change the textarea color when the time is passing
 
-}
+
 
